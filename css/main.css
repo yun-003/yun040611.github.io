@@ -1233,7 +1233,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #ff50d1;
+  background: #ff4b42;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2360,13 +2360,4 @@ embed {
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
-}
-svg {
-  border: 0;
-  color: #fff;
-  fill: $bg-color;
-  position: absolute;
-  right: 0;
-  top: 0;
-  z-index: 1000;
 }
