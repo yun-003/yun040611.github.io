@@ -1,8 +1,0 @@
-/* 移动GitHub图标到右上角 */
-.github-banner {
-  position: fixed;
-  top: 10px;
-  right: 10px;
-  z-index: 9999;
-/* 添加其他样式，如颜色和大小 */
-}
