@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  
+  
+  <link href="https://yun040611.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://yun040611.github.io/"/>
+  <updated>2023-10-28T18:53:13.788Z</updated>
+  <id>https://yun040611.github.io/</id>
+  
+  <author>
+    <name>YUN</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>My New Post</title>
+    <link href="https://yun040611.github.io/2023/10/29/My-New-Post/"/>
+    <id>https://yun040611.github.io/2023/10/29/My-New-Post/</id>
+    <published>2023-10-28T18:53:13.000Z</published>
+    <updated>2023-10-28T18:53:13.788Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+</feed>
