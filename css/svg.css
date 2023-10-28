@@ -1,9 +1,0 @@
-svg {
-  border: 0;
-  color: #fff;
-  fill: $bg-color;
-  position: absolute;
-  right: 0;
-  top: 0;
-  z-index: $zindex-0;
-}
