@@ -1,9 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>My New Post</title>
+    <url>/2023/10/29/My-New-Post/</url>
+    <content><![CDATA[<div style="width: 90%; margin: 0 auto; border-top: 2px dashed #ccc;"></div>
+
+<span id="more"></span>]]></content>
+  </entry>
+  <entry>
     <title>SPM12 TUTORIALS（一）</title>
     <url>/2023/10/29/SPM12-TUTORIALS%EF%BC%88%E4%B8%80%EF%BC%89/</url>
-    <content><![CDATA[<h1 id="Step-1："><a href="#Step-1：" class="headerlink" title="Step 1："></a>Step 1：</h1><p> download MATLAB，SPM</p>
+    <content><![CDATA[<div style="width: 90%; margin: 0 auto; border-top: 2px dashed #ccc;"></div>
+
+<span id="more"></span>
+
+<h1 id="Step-1："><a href="#Step-1：" class="headerlink" title="Step 1："></a>Step 1：</h1><p> download MATLAB，SPM</p>
 <h3 id="Matlab-acquisition-method："><a href="#Matlab-acquisition-method：" class="headerlink" title="Matlab acquisition method："></a>Matlab acquisition method：</h3><h4 id="Method-1：购买许可证"><a href="#Method-1：购买许可证" class="headerlink" title="Method 1：购买许可证"></a>Method 1：购买许可证</h4><h4 id="Method-2：使用-Campus-Wide-License"><a href="#Method-2：使用-Campus-Wide-License" class="headerlink" title="Method 2：使用 Campus-Wide License"></a>Method 2：使用 Campus-Wide License</h4><blockquote>
 <p><a href="https://ww2.mathworks.cn/academia/tah-support-program/eligibility.html">https://ww2.mathworks.cn/academia/tah-support-program/eligibility.html</a></p>
 </blockquote>
@@ -31,7 +42,6 @@
 <h5 id="example"><a href="#example" class="headerlink" title="example"></a>example</h5><blockquote>
 <p><a href="https://www.fil.ion.ucl.ac.uk/spm/data">https://www.fil.ion.ucl.ac.uk/spm/data</a></p>
 </blockquote>
-<p>​</p>
 ]]></content>
       <categories>
         <category>CEREBRAL AGE</category>
@@ -42,14 +52,13 @@
       </tags>
   </entry>
   <entry>
-    <title>My New Post</title>
-    <url>/2023/10/29/My-New-Post/</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
     <title>小题多练（1）</title>
     <url>/2023/10/29/%E5%B0%8F%E9%A2%98%E5%A4%9A%E7%BB%83%EF%BC%881%EF%BC%89/</url>
-    <content><![CDATA[<ol>
+    <content><![CDATA[<div style="width: 90%; margin: 0 auto; border-top: 2px dashed #ccc;"></div>
+
+<span id="more"></span>
+
+<ol>
 <li>$$<br>\lim_{x\rightarrow0}{\frac{\sin(x\sin{\frac{1}{x}})}{x\sin{\frac{1}{x}}}}<br>$$</li>
 </ol>
 <div align = "center">判断极限是否存在。若存在，求出此极限；若不存在，给出证明。</div>
