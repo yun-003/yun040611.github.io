@@ -42,7 +42,7 @@
   <entry>
     <title>小题多练（1）</title>
     <url>/2023/10/29/%E5%B0%8F%E9%A2%98%E5%A4%9A%E7%BB%83%EF%BC%881%EF%BC%89/</url>
-    <content><![CDATA[<p>$$<br>\lim_{x\rightarrow0}{\frac{\sin(x\sin{\frac{1}{x}})}{x\sin{\frac{1}{x}}}}<br>$$</p>
+    <content><![CDATA[<p>\lim_{x\rightarrow0}{\frac{\sin(x\sin{\frac{1}{x}})}{x\sin{\frac{1}{x}}}}</p>
 <p>求上式极限。</p>
 ]]></content>
   </entry>
