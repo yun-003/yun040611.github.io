@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>My New Post</title>
-    <url>/2023/10/29/My-New-Post/</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
     <title>SPM12 TUTORIALS（一）</title>
     <url>/2023/10/29/SPM12-TUTORIALS%EF%BC%88%E4%B8%80%EF%BC%89/</url>
     <content><![CDATA[<h1 id="Step-1："><a href="#Step-1：" class="headerlink" title="Step 1："></a>Step 1：</h1><p> download MATLAB，SPM</p>
@@ -40,10 +35,17 @@
 ]]></content>
   </entry>
   <entry>
+    <title>My New Post</title>
+    <url>/2023/10/29/My-New-Post/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
     <title>小题多练（1）</title>
     <url>/2023/10/29/%E5%B0%8F%E9%A2%98%E5%A4%9A%E7%BB%83%EF%BC%881%EF%BC%89/</url>
-    <content><![CDATA[<p>\lim_{x\rightarrow0}{\frac{\sin(x\sin{\frac{1}{x}})}{x\sin{\frac{1}{x}}}}</p>
-<p>求上式极限。</p>
+    <content><![CDATA[<p>$$<br>
+\lim_{x\rightarrow0}{\frac{\sin(x\sin{\frac{1}{x}})}{x\sin{\frac{1}{x}}}}<br>
+$$</p>
+<h4 id="求上式极限。">求上式极限。</h4>
 ]]></content>
   </entry>
 </search>
