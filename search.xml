@@ -14,7 +14,7 @@
 </blockquote>
 <p>输入你的学校名称和校园邮箱（比如 学号@westlake.edu.cn）</p>
 <h4 id="Method-3：申请-CUMCM-许可证"><a href="#Method-3：申请-CUMCM-许可证" class="headerlink" title="Method 3：申请 CUMCM 许可证"></a>Method 3：申请 CUMCM 许可证</h4><h4 id="Method-4：申请其他比赛许可证"><a href="#Method-4：申请其他比赛许可证" class="headerlink" title="Method 4：申请其他比赛许可证"></a>Method 4：申请其他比赛许可证</h4><h3 id="SPM-acquisition-method：（spm12）"><a href="#SPM-acquisition-method：（spm12）" class="headerlink" title="SPM acquisition method：（spm12）"></a>SPM acquisition method：（spm12）</h3><h4 id="description"><a href="#description" class="headerlink" title="description"></a>description</h4><h5 id="官网："><a href="#官网：" class="headerlink" title="官网："></a>官网：</h5><blockquote>
-<p><a href="https://www.fil.ion.ucl.ac.uk/spm">https://www.fil.ion.ucl.ac.uk/spm/</a></p>
+<p>[<a href="https://www.fil.ion.ucl.ac.uk/spm/]">https://www.fil.ion.ucl.ac.uk/spm/]</a><br>(<a href="https://www.fil.ion.ucl.ac.uk/spm">https://www.fil.ion.ucl.ac.uk/spm</a>)</p>
 </blockquote>
 <h5 id="下载："><a href="#下载：" class="headerlink" title="下载："></a>下载：</h5><blockquote>
 <p><a href="https://www.fil.ion.ucl.ac.uk/spm/software/download">https://www.fil.ion.ucl.ac.uk/spm/software/download)</a></p>
@@ -25,7 +25,7 @@
 <h5 id="windows安装说明："><a href="#windows安装说明：" class="headerlink" title="windows安装说明："></a>windows安装说明：</h5><blockquote>
 <p><a href="https://en.wikibooks.org/wiki/SPM/Installation_on_64bit_Windows">https://en.wikibooks.org/wiki/SPM/Installation_on_64bit_Windows</a></p>
 </blockquote>
-<h5 id="Installation"><a href="#Installation" class="headerlink" title="Installation"></a>Installation</h5><h5 id="Download-spm12-zip"><a href="#Download-spm12-zip" class="headerlink" title="Download spm12.zip."></a>Download spm12.zip.</h5><h5 id="Unzip-spm12-zip-in-a-folder-of-your-choice"><a href="#Unzip-spm12-zip-in-a-folder-of-your-choice" class="headerlink" title="Unzip spm12.zip in a folder of your choice"></a>Unzip spm12.zip in a folder of your choice</h5><p>such as C:\Users\login\Documents\MATLAB\spm12).</p>
+<h5 id="Installation"><a href="#Installation" class="headerlink" title="Installation"></a>Installation</h5><h5 id="Download-spm12-zip"><a href="#Download-spm12-zip" class="headerlink" title="Download spm12.zip."></a>Download spm12.zip.</h5><h5 id="Unzip-spm12-zip-in-a-folder-of-your-choice"><a href="#Unzip-spm12-zip-in-a-folder-of-your-choice" class="headerlink" title="Unzip spm12.zip in a folder of your choice"></a>Unzip spm12.zip in a folder of your choice</h5><p>such as C:\Users\login\Documents\MATLAB\spm12</p>
 <h5 id="Start-MATLAB-and-add-SPM-into-your-path"><a href="#Start-MATLAB-and-add-SPM-into-your-path" class="headerlink" title="Start MATLAB and add SPM into your path"></a>Start MATLAB and add SPM into your path</h5><p>either using File &gt; Set Path &gt; Add Folder… or typing</p>
 <blockquote>
 <p>addpath C:\Users\login\Documents\MATLAB\spm12<br>in MATLAB’s workspace.</p>
