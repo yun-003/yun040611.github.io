@@ -6,7 +6,7 @@
   <link href="https://yun040611.github.io/atom.xml" rel="self"/>
   
   <link href="https://yun040611.github.io/"/>
-  <updated>2023-10-29T09:43:07.389Z</updated>
+  <updated>2023-10-29T13:32:33.409Z</updated>
   <id>https://yun040611.github.io/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>小题多练（1）</title>
+    <link href="https://yun040611.github.io/2023/10/29/%E5%B0%8F%E9%A2%98%E5%A4%9A%E7%BB%83%EF%BC%881%EF%BC%89/"/>
+    <id>https://yun040611.github.io/2023/10/29/%E5%B0%8F%E9%A2%98%E5%A4%9A%E7%BB%83%EF%BC%881%EF%BC%89/</id>
+    <published>2023-10-29T08:21:32.000Z</published>
+    <updated>2023-10-29T13:32:33.409Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;$$&lt;br&gt;&#92;lim_{x&#92;rightarrow0}{&#92;frac{&#92;sin(x&#92;sin{&#92;frac{1}{x}})}{x&#92;sin{&#92;frac{1}{x}}}}&lt;br&gt;$$&lt;/p&gt;
+&lt;p&gt;求上式极限。&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>SPM12 TUTORIALS（一）</title>
