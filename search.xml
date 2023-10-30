@@ -1,13 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>My New Post</title>
-    <url>/2023/10/29/My-New-Post/</url>
-    <content><![CDATA[<div style="width: 90%; margin: 0 auto; border-top: 2px dashed #ccc;"></div>
-
-<span id="more"></span>]]></content>
-  </entry>
-  <entry>
     <title>SPM12 TUTORIALS（一）</title>
     <url>/2023/10/29/SPM12-TUTORIALS%EF%BC%88%E4%B8%80%EF%BC%89/</url>
     <content><![CDATA[<div style="width: 90%; margin: 0 auto; border-top: 2px dashed #ccc;"></div>
@@ -50,6 +43,13 @@
         <tag>Matlab</tag>
         <tag>Spm12</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>My New Post</title>
+    <url>/2023/10/29/My-New-Post/</url>
+    <content><![CDATA[<div style="width: 90%; margin: 0 auto; border-top: 2px dashed #ccc;"></div>
+
+<span id="more"></span>]]></content>
   </entry>
   <entry>
     <title>小题狂练（1）</title>
@@ -114,7 +114,7 @@
 <div>
 
   <div>
-    <span>方法1：转化成二重积分</span>
+    <span>方法1：转化成二重积分</span><br><br>
     <div style="text-align: center;">
 \(
 \begin{align*}
@@ -130,9 +130,9 @@
 \)
     </div>
   </div>
-
+<br>
   <div>
-    <span>方法2：先求导再积分（费曼积分法）</span>
+    <span>方法2：先求导再积分（费曼积分法）</span><br><br>
       <div style="text-align: center;">令
 \(
 \begin{align*}
@@ -176,6 +176,7 @@
 \)
       </div>
   </div>
+<br><br>
 </div>
 
 </details>
