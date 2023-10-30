@@ -76,4 +76,123 @@
         <tag>maths</tag>
       </tags>
   </entry>
+  <entry>
+    <title>小题狂练（2）</title>
+    <url>/2023/10/30/%E5%B0%8F%E9%A2%98%E7%8B%82%E7%BB%83%EF%BC%882%EF%BC%89/</url>
+    <content><![CDATA[<div style="width: 90%; margin: 0 auto; border-top: 2px dashed #ccc;"></div>
+
+<span id="more"></span>
+
+</div>
+<br><br>
+<div align = "center">求下述算式的定积分。</div>
+
+<p>$$<br>\int_{0}^{1}\frac{x-1}{\ln{x}}dx<br>$$</p>
+<details>
+  <summary>答案</summary>
+
+<div style="text-align: center;">
+\(
+\begin{align*}
+&  \int_{0}^{1}\frac{x-1}{\ln{x}}dx \\
+&= \int_{0}^{1}\frac{x^1-1^0}{\ln{x}}dx \\
+&= \ln{\frac{1+1}{0+1}} \\
+&= \ln{2}
+\end{align*}
+\)
+</div>
+
+</details>
+<br><br>
+<div style="width: 90%; margin: 0 auto; border-top: 2px dashed #ccc;"></div>
+<br><br>
+
+<p>$$<br>\int_{0}^{1}\frac{x^a-x^b}{\ln{x}}dx<br>$$</p>
+<details>
+  <summary>详解</summary>
+
+<div>
+
+  <div>
+    <span>方法1：转化成二重积分</span>
+    <div style="text-align: center;">
+\(
+\begin{align*}
+&  \int_{0}^{1}\frac{x^a-x^b}{\ln{x}}dx \\
+&= \int_{0}^{1}(\frac{x^b}{\ln{x}}-\frac{x^a}{\ln{x}})dx \\
+&= \int_{0}^{1}(\int_{a}^{b}{x^y}dy)dx \\
+&= \int_{a}^{b}dy\int_{0}^{1}{x^y}dx \\
+&= \int_{a}^{b}\frac{x^y+1}{y+1}dy \\
+&= \int_{a}^{b}\frac{1}{y+1}dy \\
+&= (\ln{y+1})|^b_a \\
+&= \ln{\frac{b+1}{a+1}}
+\end{align*}
+\)
+    </div>
+  </div>
+
+  <div>
+    <span>方法2：先求导再积分（费曼积分法）</span>
+      <div style="text-align: center;">令
+\(
+\begin{align*}
+&  f(a,b)=\int_{0}^{1}(\frac{x^b}{\ln{x}}-\frac{x^a}{\ln{x}})dx \\
+\end{align*}
+\)
+      </div><br>
+      <div style="text-align: center;">
+\(
+\begin{align*}
+&  f'(a,b) = \int_{0}^{1}(x^b-x^a)dx = \frac{1}{b+1}-\frac{1}{a+1}
+\end{align*}
+\)
+      </div><br>
+      <div style="text-align: center;">
+\(
+\begin{align*}
+&  \int_{}{}f'(a,b)d(a,b) = \ln{\frac{b+1}{a+1}}+C
+\end{align*}
+\)
+      </div><br>
+      <div style="text-align: center;">
+\(
+\begin{align*}
+&  \because f'(0,0) = 0
+\end{align*}
+\)
+      </div><br>
+      <div style="text-align: center;">
+\(
+\begin{align*}
+&  \therefore C = 0
+\end{align*}
+\)
+      </div><br>
+      <div style="text-align: center;">即
+\(
+\begin{align*}
+&  \int_{0}^{1}\frac{x^a-x^b}{\ln{x}}dx = \ln{\frac{b+1}{a+1}}
+\end{align*}
+\)
+      </div>
+  </div>
+</div>
+
+</details>
+
+
+
+
+
+
+
+
+]]></content>
+      <categories>
+        <category>MATHS</category>
+      </categories>
+      <tags>
+        <tag>maths</tag>
+      </tags>
+  </entry>
 </search>
