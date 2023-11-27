@@ -122,7 +122,7 @@
 &= \int_{0}^{1}(\frac{x^b}{\ln{x}}-\frac{x^a}{\ln{x}})dx \\
 &= \int_{0}^{1}(\int_{a}^{b}{x^y}dy)dx \\
 &= \int_{a}^{b}dy\int_{0}^{1}{x^y}dx \\
-&= \int_{a}^{b}\frac{x^y+1}{y+1}dy \\
+&= \int_{a}^{b}\frac{x^(y+1)}{y+1}dy \\
 &= \int_{a}^{b}\frac{1}{y+1}dy \\
 &= (\ln{y+1})|^b_a \\
 &= \ln{\frac{b+1}{a+1}}
@@ -180,7 +180,6 @@
 </div>
 
 </details>
-
 
 
 
