@@ -85,6 +85,7 @@
 
 </div>
 <br><br>
+
 <div align = "center">求下述算式的定积分。</div>
 
 <p>$$<br>\int_{0}^{1}\frac{x-1}{\ln{x}}dx<br>$$</p>
@@ -101,9 +102,9 @@
 \end{align*}
 \)
 </div>
-
 </details>
 <br><br>
+
 <div style="width: 90%; margin: 0 auto; border-top: 2px dashed #ccc;"></div>
 <br><br>
 
@@ -122,7 +123,7 @@
 &= \int_{0}^{1}(\frac{x^b}{\ln{x}}-\frac{x^a}{\ln{x}})dx \\
 &= \int_{0}^{1}(\int_{a}^{b}{x^y}dy)dx \\
 &= \int_{a}^{b}dy\int_{0}^{1}{x^y}dx \\
-&= \int_{a}^{b}\frac{x^(y+1)}{y+1}dy \\
+&= \int_{a}^{b}\frac{x^{y+1}}{y+1}dy \\
 &= \int_{a}^{b}\frac{1}{y+1}dy \\
 &= (\ln{y+1})|^b_a \\
 &= \ln{\frac{b+1}{a+1}}
@@ -193,6 +194,56 @@
       </categories>
       <tags>
         <tag>maths</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>duidui gift</title>
+    <url>/2024/04/07/duidui-gifts/</url>
+    <content><![CDATA[<div style="width: 90%; margin: 0 auto; border-top: 2px dashed #ccc;"></div>
+
+<details>
+  <summary>Ⅰ：</summary>
+
+<p><img src="/duidui-gifts%5Cfirst.jpg" alt="first"></p>
+</details>
+
+<details>
+  <summary>Ⅱ：</summary>
+
+<p><img src="/duidui-gifts%5Csecond.jpg" alt="second"></p>
+</details>
+
+<details>
+  <summary>Ⅲ：</summary>
+
+<p><img src="/duidui-gifts%5Cthrid.jpg" alt="thrid"></p>
+</details>
+
+<details>
+  <summary>Ⅳ：</summary>
+
+<p><img src="/duidui-gifts%5Cforth.jpg" alt="forth"></p>
+</details>
+
+<details>
+  <summary>Ⅴ：</summary>
+
+<p><img src="/duidui-gifts%5Cfifth.jpg" alt="fifth"></p>
+</details>
+
+<details>
+  <summary>Ⅵ：</summary>
+
+<p><img src="/duidui-gifts%5Csixth.jpg" alt="sixth"></p>
+</details>
+
+<p>结束</p>
+]]></content>
+      <categories>
+        <category>xuan</category>
+      </categories>
+      <tags>
+        <tag>xuan</tag>
       </tags>
   </entry>
 </search>
